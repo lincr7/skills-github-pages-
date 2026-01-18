@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog! Hope to make fun!
+title: Welcome to my blog! 
 ---
